@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://erkunal.in/_nuxt/img/about-dev.d3b6fdf.gif"  />
+<img align="right" height="150" src="https://media.licdn.com/dms/image/D5612AQHPqz04RwbHXQ/article-cover_image-shrink_720_1280/0/1666761339923?e=2147483647&v=beta&t=Xwj-IWygmJKC0oH_pdr02nUi1dBZF1lcytfsDkfOys0"  />
 
 ###
 
